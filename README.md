@@ -1,3 +1,6 @@
+Simple breadth-first Search
+
+
 Inputs
 ```
 Vertex a = new Vertex("a");
@@ -20,8 +23,6 @@ d.addNeighbor(e);
 
 g.addNeighbor(h);
 ```
-
-Breadth-first Search
 
 Output
 ```
